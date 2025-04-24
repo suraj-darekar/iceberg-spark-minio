@@ -1,4 +1,6 @@
 # iceberg-spark-minio
+Steps to Install
+
 CLI Commands: 
 
 1. git clone               : https://github.com/suraj-darekar/iceberg-spark-minio.git
