@@ -1,7 +1,7 @@
 # iceberg-spark-minio
 CLI Commands: 
 
-1. git clone               :
+1. git clone               : https://github.com/suraj-darekar/iceberg-spark-minio.git
 2. Run                     : docker-compose up
 
 Verify Services
