@@ -1,5 +1,5 @@
 # iceberg-spark-minio
-Steps to Install
+Steps to Install:
 
 CLI Commands: 
 
